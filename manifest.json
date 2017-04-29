@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "CSV export for Clubhouse.io Reports",
+  "short_name": "CSV Clubhouse.io",
+  "description": "CSV export for Clubhouse.io reports",
+  "version": "0.1.0",
+  "browser_action": {
+    "default_title": "CSV Clubhouse.io"
+  },
+
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+
+  "permissions": [
+    "activeTab"
+  ]
+
+}
