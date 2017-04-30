@@ -14,6 +14,12 @@
     "persistent": false
   },
 
+  "icons": {
+    "16": "images/csv-clubhouse-16.png",
+    "48": "images/csv-clubhouse-48.png",
+    "128": "images/csv-clubhouse-128.png"
+  },
+
   "permissions": [
     "activeTab"
   ]
