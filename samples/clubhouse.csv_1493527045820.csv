@@ -1,0 +1,5 @@
+ID,Project,Owners,Type,Points,Name,Labels,Epic,Created At,Completed At,Time To Complete (days)
+"7","CSV for Clubhouse.io extension","","Feature","4","Extract data from Clubhouse into a CSV sheet","","Chrome Extension","Apr 30 2017, 12:23 pm","April 29 2017, 11:26:06 pm","-0.5395138888888888"
+"9","CSV for Clubhouse.io extension","","Feature","1","Crawl HTML of Reports page to get stories","","Chrome Extension","Apr 30 2017, 12:24 pm","April 29 2017, 11:26:08 pm","-0.5401851851851852"
+"8","CSV for Clubhouse.io extension","Zach Cheng","Feature","2","Extracts each story into it's own row","","Chrome Extension","Apr 30 2017, 12:24 pm","April 29 2017, 11:26:09 pm","-0.5401736111111111"
+"10","CSV for Clubhouse.io extension","","Feature","N/A","Extract 'Completed At' time (not available with Clubhouse.io api)","","Chrome Extension","Apr 30 2017, 12:25 pm","April 29 2017, 11:26:11 pm","-0.5408449074074074"
