@@ -27,7 +27,7 @@ The data exported for each story includes:
 11. Lead Time in Days (How long it took to get from Created At to Completed At)
 
 ## Usage
-1. Install the extension
+1. Install the extension (at https://chrome.google.com/webstore/detail/csv-export-for-clubhousei/igjffohgcnkhchckhkjkankejagakddl)
 2. Go to your Clubhouse.io reports page
-2. Click the extension icon (on the right of the address bar)
+3. Click the extension icon (on the right of the address bar)
 4. A CSV file will be downloaded automatically
